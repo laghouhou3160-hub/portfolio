@@ -1,36 +1,20 @@
-# Portfolio
+# Personal Portfolio Website
 
-Welcome to my GitHub portfolio.
+A simple responsive portfolio website built using HTML and CSS.
 
-## About Me
+## Features
 
-I am a passionate software developer interested in learning new technologies and building practical solutions. This repository showcases my projects, skills, and continuous learning journey.
+- Responsive design
+- About Me section
+- Skills section
+- Projects section
+- Contact information
 
-## Skills
+## Technologies Used
 
-- Python
-- JavaScript
-- HTML & CSS
-- Git & GitHub
-- Problem Solving
+- HTML5
+- CSS3
 
-## Projects
-
-Here you will find projects related to:
-
-- Web Development
-- Software Development
-- Automation
-- Data Analysis
-- Open Source Learning
-
-## Contact
+## Author
 
 GitHub: https://github.com/laghouhou3160-hub
-
-## Goals
-
-- Improve programming skills
-- Build real-world projects
-- Contribute to open-source software
-- Create a professional portfolio
